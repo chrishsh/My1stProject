@@ -4,9 +4,11 @@ channels:
 dependencies:
   - matplotlib
   - numpy
-  - openssl
+  - scipy
+  - statsmodels
   - pandas
   - pandas-datareader
+  - openssl
   - patsy
   - pyparsing
   - pyqt
@@ -20,7 +22,6 @@ dependencies:
   - six
   - pip 
   - pip:
-      - statsmodel
       - quandl
       - zipline
       - pyfolio
