@@ -4,7 +4,6 @@ channels:
 dependencies:
   - matplotlib
   - numpy
-  - statsmodel
   - openssl
   - pandas
   - pandas-datareader
@@ -21,6 +20,7 @@ dependencies:
   - six
   - pip 
   - pip:
+      - statsmodel
       - certifi
       - chardet
       - idna
