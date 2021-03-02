@@ -23,6 +23,7 @@ dependencies:
   - pip 
   - pip:
       - quandl
+      - numexpr
       - zipline
       - pyfolio
       - alphalens
@@ -30,25 +31,16 @@ dependencies:
       - pymc3
       - TA-Lib
       - pyfin
-      - vollib
       - QuantPy
       - pynance
       - gs-quant
       - empyrical
       - qfrm
       - QuantLib-Python
-      - googlefinance
-      - yahoo-finance
-      - yfinanceapi
-      - pyhoofinance
-      - pandas-finance
-      - wallstreet
-      - investpy
-      - xlwings
       - qiskit
       - pytorch
       - tensorflow
       - keras
       - SciKit-Learn
       - quantecon
-      - interpolation
+ 
