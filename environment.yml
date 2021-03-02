@@ -1,43 +1,29 @@
 name: pyfinance
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - matplotlib
   - numpy
   - scipy
   - statsmodels
   - pandas
-  - pandas-datareader
   - python
-  - python-dateutil
-  - pytz
-  - qt
   - pytorch
   - tensorflow
   - keras
   - SciKit-Learn
-  - requests
-  - setuptools
-  - sip
-  - six
   - pip 
   - pip:
-      - quandl
-      - numexpr
       - zipline
       - pyfolio
       - alphalens
-      - quantdsl
-      - pymc3
-      - TA-Lib
-      - pyfin
-      - QuantPy
-      - pynance
-      - gs-quant
       - empyrical
+      - quandl
+      - numexpr
+      - pymc3
+      - gs-quant
       - qfrm
       - QuantLib-Python
       - qiskit
-
       - quantecon
  
