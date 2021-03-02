@@ -12,6 +12,10 @@ dependencies:
   - python-dateutil
   - pytz
   - qt
+  - pytorch
+  - tensorflow
+  - keras
+  - SciKit-Learn
   - requests
   - setuptools
   - sip
@@ -34,9 +38,6 @@ dependencies:
       - qfrm
       - QuantLib-Python
       - qiskit
-      - pytorch
-      - tensorflow
-      - keras
-      - SciKit-Learn
+
       - quantecon
  
