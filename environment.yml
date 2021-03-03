@@ -14,16 +14,10 @@ dependencies:
   - SciKit-Learn
   - pip 
   - pip:
+      - quandl
       - zipline
       - pyfolio
       - alphalens
-      - empyrical
-      - quandl
-      - numexpr
-      - pymc3
-      - gs-quant
-      - qfrm
       - QuantLib-Python
-      - qiskit
       - quantecon
- 
+      - qiskit 
