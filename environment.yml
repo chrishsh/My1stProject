@@ -11,9 +11,5 @@ dependencies:
   - pip 
   - pip:
       - quandl
-      - zipline
-      - pyfolio
-      - alphalens
       - QuantLib-Python
       - quantecon
-      - qiskit 
