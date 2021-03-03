@@ -8,8 +8,9 @@ dependencies:
   - statsmodels
   - pandas
   - python
-  - pip 
-  - pip:
-      - quandl
-      - QuantLib-Python
-      - quantecon
+  - quandl
+  - quantecon
+  - quantlib-python
+  - tensorflow
+  - scikit-learn
+  - qiskit
