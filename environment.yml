@@ -8,7 +8,6 @@ dependencies:
   - statsmodels
   - pandas
   - python
-  - tensorflow
   - pip 
   - pip:
       - quandl
