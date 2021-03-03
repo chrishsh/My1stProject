@@ -10,7 +10,8 @@ dependencies:
   - python
   - quandl
   - quantecon
-  - quantlib-python
   - tensorflow
   - scikit-learn
-  - qiskit
+  - pip: 
+    - quantlib-python
+    - qiskit
