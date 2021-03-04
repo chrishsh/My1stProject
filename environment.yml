@@ -12,3 +12,6 @@ dependencies:
   - quantecon
   - tensorflow
   - scikit-learn
+  - pip:
+    - quantlib-python
+    - qiskit
